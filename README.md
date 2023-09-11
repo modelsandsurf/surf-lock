@@ -1,7 +1,7 @@
 # surf lock
 Introduction
 
-[Surf Lock]("https://modelsandsurf.com.au/pages/surf-key-lock")
+[Surf Lock](https://modelsandsurf.com.au/pages/surf-key-lock)
 
 In the world of surfing, ensuring the security of one's board and gear is of paramount importance. This necessity has birthed innovations like the "surf lock," a device specifically designed to protect surfboards and related equipment. This comprehensive guide will navigate the concept, design, and significance of the surf lock in the modern surfing scenario.
 
